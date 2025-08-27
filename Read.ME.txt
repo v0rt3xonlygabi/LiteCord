@@ -1,0 +1,37 @@
+LiteCord - Lightweight Discord Alternative for Low-End PCs
+==========================================================
+
+Welcome to LiteCord!
+
+LiteCord is a simple, browser-based chat app designed for users with low-end hardware. 
+It runs entirely through Microsoft Edge, giving you access to Discord-style communication without the heavy system load.
+
+Features:
+---------
+- Runs in Microsoft Edge (no installation of Discord required)
+- Low resource usage (perfect for older or low-spec PCs)
+- Voice and text chat support
+- Fast setup and easy to use
+- Secure and stable performance
+
+Getting Started:
+----------------
+1. Make sure Microsoft Edge is installed and up to date.
+2. Launch LiteCord from the shortcut or installer.
+3. Sign in with your Discord account or create a new one.
+4. Start chatting with friends and communities.
+
+Disclaimer:
+-----------
+LiteCord is an independent project.
+It is NOT affiliated with, endorsed by, or associated with Discord Inc.
+This app provides a custom interface for accessing Discord-like features via web technologies.
+
+Support:
+--------
+For help, updates, or feedback, please visit our community page or contact the developer.
+
+Thank you for using LiteCord!
+Enjoy a smoother, lighter way to stay connected.
+
+Made with ❤ by Mitroi Gabriel, Enjoy and Have fun!
